@@ -143,7 +143,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact [your name](mailto:your-email@example.com).
+If you have any questions or feedback, feel free to contact [Getplaced](mailto:your-getplaced60@gmail.com.
 
 ---
 
